@@ -2,7 +2,7 @@
 
 Contributors: jeffersoncarrenho
 
-Tags: facebook, like box
+Tags: bootstrap, carousel
 
 Tested up to: 4.9.6
 
