@@ -1,7 +1,7 @@
 <?php
   /*
   Plugin Name: Bootstrap fullscreen slider
-  Plugin URI:  https://github.com/jeffersoncarrenho/
+  Plugin URI:  https://github.com/jeffersoncarrenho/bootstrap_slider.git
   Description: Bootstrap fullscreen slider
   Version:     1
   Author:      Jefferson Lima
